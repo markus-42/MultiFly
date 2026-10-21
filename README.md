@@ -2,6 +2,7 @@
 
 # MultiFly: A Real-World Multimodal Aerial Dataset with Annotation-Efficient Label Transfer and Cross-Modal Semantic Consistency
 
+[![Project](https://img.shields.io/badge/Project-Page-blue.svg)](https://markus-42.github.io/multifly/)&nbsp;&nbsp;
 [![arXiv](https://img.shields.io/badge/arXiv-Preprint-red.svg)](https://arxiv.org/abs/2610.10359)
 
 [Markus Gross](https://markus-42.github.io/)<sup>1,2,3,4,\*</sup>,&nbsp;
@@ -43,4 +44,5 @@
 
 
 ## 🚀 News
+- **[2026/10]:** [Project page](https://markus-42.github.io/multifly/) Project page online
 - **[2026/10]:** [Preprint](https://arxiv.org/abs/2610.10359) available on arXiv
